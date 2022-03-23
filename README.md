@@ -1,16 +1,10 @@
-# kosan_app
+# Kos
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
+![Home](https://user-images.githubusercontent.com/19315474/159660717-e8d13d6f-91a7-493c-a208-5fcd9a458840.png) ![Splash](https://user-images.githubusercontent.com/19315474/159660727-de39d856-dff4-4c93-a605-dcada1f276ad.png)
+![Details](https://user-images.githubusercontent.com/19315474/159661112-6f141746-7c26-48fd-9eed-e1710f7bb094.png) ![404](https://user-images.githubusercontent.com/19315474/159660680-e71d8b12-198c-4704-8e23-340042cd384a.png)
